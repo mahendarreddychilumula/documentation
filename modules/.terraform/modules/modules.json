@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"subnet1","Source":"./modules/subnet","Dir":""},{"Key":"vnet1","Source":"./modules/vnet","Dir":""},{"Key":"","Source":"","Dir":"."},{"Key":"rg1","Source":"./modules/rg1","Dir":""}]}
